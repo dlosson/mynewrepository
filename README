@@ -1,0 +1,7 @@
+1.)DES algorithm code was obtained from: http://simplestcodings.blogspot.com/2010/09/des-implementation-in-c.html
+Compilation: g++ des.cpp
+Test results in des_tests.txt
+
+2.)RSA algorithm code was obtained from: http://www.trytoprogram.com/cpp-examples/cplusplus-program-encrypt-decrypt-string/
+Compilation: g++ rsa.cpp
+Test results in rsa_tests.txt
